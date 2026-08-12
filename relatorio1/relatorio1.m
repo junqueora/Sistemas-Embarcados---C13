@@ -199,8 +199,8 @@ disp(texto1);
 disp('Texto recebido 2:');
 disp(texto2);
 
-valorNum1 = str2num(texto1); %#ok<ST2NM>
-valorNum2 = str2num(texto2); %#ok<ST2NM>
+valorNum1 = str2num(texto1); 
+valorNum2 = str2num(texto2); 
 
 soma9 = valorNum1 + valorNum2;
 multiplicacao9 = valorNum1 * valorNum2;
